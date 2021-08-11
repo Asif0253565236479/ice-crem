@@ -1,0 +1,14 @@
+.cart{ 
+    font-size: 1.5vw;
+    color: #ffffff;
+    margin: 0 1vw;
+}
+i{ 
+    font-size: 1.5vw;
+    color: #ffffff; 
+    transition: font-size .5s;
+}
+i:hover{ 
+    font-size: 2.5vw;
+    
+}
